@@ -1,2 +1,5 @@
 # basecamp
-technical test
+
+make
+
+./search
